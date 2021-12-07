@@ -11,7 +11,7 @@
                                                           |  $$$$$$/                                    
                                                            \______/    
                                                        
-                                  "My message to all Python devs: DO NOT INSTALL ANACONDA"
+                                 "My message to all Python devs: DO NOT INSTALL ANACONDA"
                                             Coding Discord Utilities and Tools
                                                 Cool Coding Languages Below
 ```                                                                                                          
