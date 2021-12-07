@@ -3,4 +3,5 @@
 - I dont have many socials
 - Learning HTML and JavaScript 
 
-ㅤ![small](https://user-images.githubusercontent.com/90114741/145103318-a87616ee-acf7-4334-8570-f3aae8a5b657.png) ![bucket hacks](https://user-images.githubusercontent.com/90114741/145106143-654701a3-1091-478e-85f4-5b4a3300b6f2.png) ![LOL](https://user-images.githubusercontent.com/90114741/145106577-5b333820-92b2-4539-a6fd-3e1b41a11935.png)
+ㅤ![small](https://user-images.githubusercontent.com/90114741/145103318-a87616ee-acf7-4334-8570-f3aae8a5b657.png) ![bucket hacks](https://user-images.githubusercontent.com/90114741/145106143-654701a3-1091-478e-85f4-5b4a3300b6f2.png) ![yoinkers](https://user-images.githubusercontent.com/90114741/145108119-4a59a0d8-9631-4f4b-82c8-e78b1cbcb7af.png)
+
