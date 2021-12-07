@@ -3,4 +3,4 @@
 - I dont have many socials
 - Learning HTML and JavaScript 
 
-ㅤㅤㅤ![small](https://user-images.githubusercontent.com/90114741/145103318-a87616ee-acf7-4334-8570-f3aae8a5b657.png) 
+ㅤ![small](https://user-images.githubusercontent.com/90114741/145103318-a87616ee-acf7-4334-8570-f3aae8a5b657.png) 
