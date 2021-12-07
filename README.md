@@ -1,4 +1,4 @@
-- Im Stiizzy Cat
+- Wassup World, I'm Stiizzy Cat
 - I make discord utilites and other projects
 - I dont have many socials
 - Cool Languages
