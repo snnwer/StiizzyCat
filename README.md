@@ -17,4 +17,4 @@
                                                 Cool Coding Languages Below
                                                    Discord: Stiizzy Cat
 ```                                                                                                             
-<p align="left"><img src=""
+<p align="left"><img src="https://github.com/StiizzyCat/StiizzyCat/blob/main/Assets/Assets/Javascript.png?raw=true"
