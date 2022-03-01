@@ -11,4 +11,4 @@
                                                    (___,/' 
 ```
 <p align="center">BFM Is my main project</p>
-<img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/Javascript.png" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/Node.png" alt="node" width="40" height="40"/>
+<p align="center"><img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/Javascript.png" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/Node.png" alt="node" width="40" height="40"/>
