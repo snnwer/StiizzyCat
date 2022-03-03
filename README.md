@@ -9,6 +9,9 @@
                                                              /'                                        
                                                      /     /'                                          
                                                     (___,/' 
+                                                    
+                                               𝙈𝙮 𝙘𝙪𝙧𝙧𝙚𝙣𝙩 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 𝙞𝙨 𝙗𝙛𝙢
+                                     𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣 𝙖𝙣𝙙 𝙬𝙤𝙪𝙡𝙙 𝙡𝙞𝙠𝙚 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝘾++
 ```
 <div>
 <p align="center"> <a href="https://www.paypal.com/donate/?hosted_button_id=PGKYAAVEQU5BW"> <img  src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="JavaScript" />  </a> <a href="https://codepen.io/stiizzycat"><img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/CodePen.svg" alt="codepen"/> </a> <a href="https://replit.com/@StiizzyCat0001"><img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/ReplIt.svg" alt="repl"/> </a>
