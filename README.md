@@ -12,6 +12,7 @@
                                                                  \______/                                    
                                                     
                                                          CyberSecurity nerd
+                                                    Python will be learned later XD
                                             𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 C# and More Advanced NodeJS
 ```
 <div>
