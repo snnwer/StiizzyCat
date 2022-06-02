@@ -1,19 +1,10 @@
 ```
-                  $$$$$$\    $$\     $$\ $$\                                      $$$$$$\             $$\     
-                 $$  __$$\   $$ |    \__|\__|                                    $$  __$$\            $$ |    
-                 $$ /  \__|$$$$$$\   $$\ $$\ $$$$$$$$\ $$$$$$$$\ $$\   $$\       $$ /  \__| $$$$$$\ $$$$$$\   
-                 \$$$$$$\  \_$$  _|  $$ |$$ |\____$$  |\____$$  |$$ |  $$ |      $$ |       \____$$\\_$$  _|  
-                  \____$$\   $$ |    $$ |$$ |  $$$$ _/   $$$$ _/ $$ |  $$ |      $$ |       $$$$$$$ | $$ |    
-                 $$\   $$ |  $$ |$$\ $$ |$$ | $$  _/    $$  _/   $$ |  $$ |      $$ |  $$\ $$  __$$ | $$ |$$\ 
-                 \$$$$$$  |  \$$$$  |$$ |$$ |$$$$$$$$\ $$$$$$$$\ \$$$$$$$ |      \$$$$$$  |\$$$$$$$ | \$$$$  |
-                  \______/    \____/ \__|\__|\________|\________| \____$$ |       \______/  \_______|  \____/ 
-                                                                 $$\   $$ |                                   
-                                                                 \$$$$$$  |                                   
-                                                                 \______/                                    
-                                                    
-                                                         CyberSecurity Enthusiast
-                                                    Python will be learned later XD
-                                            𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 C# and More Advanced NodeJS
+                                                                             _ _                     
+                             _____ _   _ _                _____     _      _| | |_ ___ ___ ___ ___   
+                            |   __| |_|_|_|___ ___ _ _   |     |___| |_   |_     _|   |   |   |_  |  
+                            |__   |  _| | |- _|- _| | |  |   --| .'|  _|  |_     _| | | | | | |_| |_ 
+                            |_____|_| |_|_|___|___|_  |  |_____|__,|_|      |_|_| |___|___|___|_____|
+                                                  |___|                                              
 ```
 <div>
 <p align="center"> <a href="https://www.paypal.com/donate/?hosted_button_id=PGKYAAVEQU5BW" target="_blank"> <img  src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/Donate.svg" alt="JavaScript"/></a> <a href="https://codepen.io/stiizzycat" target="_blank" ><img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/codepenner.svg" alt="codepen"/></a> <a href="https://replit.com/@StiizzyCat0001" target="_blank"><img src="https://raw.githubusercontent.com/StiizzyCat/StiizzyCat/main/Assets/Assets/repl.svg" alt="repl"/> </a>
