@@ -20,7 +20,9 @@
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; right: 24dvi; top: 20dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 296px; width: 296px; object-position: top; background-image: url('https://github.com/StiizzyCat/StiizzyCat/blob/main/wow.gif?raw=true');]{x0000}$}
 ```
-
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 24dvi; top: 20dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 296px; width: 296px; object-position: top; background-image: url('https://github.com/StiizzyCat/StiizzyCat/blob/main/frog.gif?raw=true');]{x0000}$}
+```
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; bottom: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/StiizzyCat/StiizzyCat/blob/main/snoop.gif?raw=true'); animation: moveLeftRight 5s infinite alternate;]{x0000}$}
 ```
