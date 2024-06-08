@@ -19,7 +19,7 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode{goombafont; 💋img src=x onerror=alert(document.domain)//💛}{x0000}$}
+\ce{$&#x5C;unicode[goombafont; 💋img src=x onerror=alert(document.domain)//💛]{x0000}$}
 ```
 
 ```math
