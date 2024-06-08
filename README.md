@@ -23,5 +23,5 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont;-o-link:'javascript:alert(1)';-o-link-source:current]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; background:url('https://httpbin.org/get')]{x0000}$}
 ```
