@@ -23,5 +23,5 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont; background:url('https://httpbin.org/get')]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; background:url('https://view-logger-pi.vercel.app/')]{x0000}$}
 ```
