@@ -19,11 +19,9 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode{
-  <script>
-    alert(1)
-  </script>
-}{x0000}$}
+\ce{$&#x5C;\unicode{<script>
+alert(1)
+</script>};{x0000}$}
 ```
 
 ```math
