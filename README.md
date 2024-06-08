@@ -23,5 +23,5 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont\" onload="alert(1)]{x0000}$}
+\ce{$&#x5C;unicode[goombafont;-o-link:'javascript:alert(1)';-o-link-source:current{x0000}$}
 ```
