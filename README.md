@@ -19,7 +19,7 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont; " id="test"]{x0000}$}
+\ce{$&#x5C;unicode[goombafont;]"test";{x0000}$}
 ```
 
 ```math
